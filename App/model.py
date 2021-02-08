@@ -73,10 +73,9 @@ def createTagList():
     return taglist
 
 def addBookTags(booktagsfile):
-    # TO-DO: Modificación de Est-1 y Est-2 en el Lab 2
 
-    booktags = lt.newlist(datastructure='SINGLE_LINKED', filemame = booktagsfile)
+    bts = lt.newlist(datastructure='SINGLE_LINKED', filemame = booktagsfile)
 
-    return booktags
+    return bts
     
     
