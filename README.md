@@ -28,3 +28,12 @@ Este directorio contiene todo el código de base que se entrega para el funciona
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
 
+Nombres integrantes:
+
+Estudiante 1: Nicole Murillo Fonseca 202025521 
+Estudiante 2: Mariana Diaz Arenas 202020993
+
+Correos uniandes:
+
+n.murillof@uniandes.edu.co
+m.diaza2@uniandes.edu.co
